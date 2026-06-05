@@ -11,7 +11,7 @@ Welcome to the official repository for the **GenAI & Context Engineering Mastery
 
 > [!NOTE]
 > 💡 **A Note from the Author:** 
-> This project is a milestone for me—**it is my first web application ever!** It represents my transition into web development, focusing on building high-fidelity interfaces, modular interactions, and responsive design systems.
+> This project is a milestone for me—**it is my first web application ever!** also it is built using Generative AI ( I built this to learn frontend development and AI-assisted workflows.) ,It represents my transition into web development, focusing on building high-fidelity interfaces, modular interactions, and responsive design systems.
 
 ---
 
