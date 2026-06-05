@@ -117,9 +117,8 @@ Please note the following technical constraints for this version of the project:
 
 Since this is my very first web application, I would love to connect, get your feedback, and collaborate! Feel free to reach out and follow my social profiles:
 
-*   **GitHub**: [@yourusername](https://github.com/yourusername) 🚀
-*   **LinkedIn**: [in/yourusername](https://linkedin.com/in/yourusername) 💼
-*   **Twitter / X**: [@yourusername](https://twitter.com/yourusername) 🐦
-*   **Email**: [your.email@example.com](mailto:your.email@example.com) 📧
+*   **GitHub**: [@AniketDaiya](https://github.com/AniketDaiya) 🚀
+*   **LinkedIn**: [in/aniket-daiya-1473b93a3](https://www.linkedin.com/in/aniket-daiya-1473b93a3/) 💼
+*   **Email**: [aniketdaiya0910@gmail.com](mailto:aniketdaiya0910@gmail.com) 📧
 
 *Thank you for visiting my project! If you like what you see, feel free to give the repository a ⭐️!*
