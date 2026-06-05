@@ -119,6 +119,6 @@ Since this is my very first web application, I would love to connect, get your f
 
 *   **GitHub**: [@AniketDaiya](https://github.com/AniketDaiya) 🚀
 *   **LinkedIn**: [in/aniket-daiya-1473b93a3](https://www.linkedin.com/in/aniket-daiya-1473b93a3/) 💼
-*   **Email**: [aniketdaiya0910@gmail.com](mailto:aniketdaiya0910@gmail.com) 📧
+
 
 *Thank you for visiting my project! If you like what you see, feel free to give the repository a ⭐️!*
